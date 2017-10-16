@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fregrfgrtcsdcsdcsd
+=======
+csdcsdcsd
+>>>>>>> C4
