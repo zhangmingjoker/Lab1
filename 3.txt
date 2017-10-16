@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dasfsdffsdcdsvdfv
 =======
 sdcdsvdfv
 >>>>>>> C4
+=======
+sdcdsvdfvsacasvd
+>>>>>>> B2
